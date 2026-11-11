@@ -1,9 +1,9 @@
 # Laporan UTS Web Software Tools
 
-**Nama:**
-**Nomor Induk Mahasiswa:**
-**Kelas:**
-**Tanggal:**
+Nama:Emilia Putri
+Nomor Induk Mahasiswa: 12523020
+Kelas: A
+Tanggal:11-November-2026
 
 ## A. Bukti pemeriksaan masalah
 | Masalah | Alat yang digunakan | Bukti pemeriksaan | Perkiraan penyebab | Perbaikan | Hasil setelah perbaikan |
